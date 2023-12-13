@@ -14,7 +14,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
-
+  
 <br>
 🏫 I am a first-year student at the National Technical University, pursuing a degree in Programming.
 🧑‍💻 I love using software to provide solutions to problems.
