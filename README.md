@@ -46,10 +46,14 @@
 
 <br>
 
-- **Extras**:
-<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture>
+- **Operanting Systems**:
+
+
+[![](https://visitcount.itsvg.in/api?id=IvanClar1a&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+      
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IvanClar1a&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IvanClar1a&theme=dark&hide_border=false)<br/>
