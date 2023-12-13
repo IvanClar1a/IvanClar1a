@@ -83,9 +83,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-
-
-
+<div align='center'>
 
 ![](https://github-readme-stats.vercel.app/api?username=IvanClar1a&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IvanClar1a&theme=tokyonight&hide_border=false)<br/>
@@ -151,13 +149,5 @@
 <br>
 
 <div align='center'>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IvanClar1a&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IvanClar1a&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanClar1a&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=IvanClar1a&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
