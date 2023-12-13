@@ -20,7 +20,7 @@
 🧑‍💻 I love using software to provide solutions to problems.<br>
 🧑‍🎓 Currently, I am learning new frameworks like React.<br>
 🤓 Always learning new things, and I enjoy being consistent in my learning.<br>
-🤔 I am currently open to new job opportunities; <br>
+🤔 I am currently open to new job opportunities. <br>
 👯 I’m looking to collaborate on front-end projects<br>
 📫 How to reach me: ivanclarianicolas@gmail.com
 
