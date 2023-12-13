@@ -2,9 +2,7 @@
 <h1 align="center"><b>Hi , I'm Iván Clariá </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-<img src="[[https://www.canva.com/design/DAF236WjYng/view](https://www.canva.com/design/DAF236WjYng/ixdXaB154vKEeuprwTYzmw/view?utm_content=DAF236WjYng&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://www.canva.com/design/DAF236WjYng/view)" width ="40">
-|[](https://github.com/IvanClar1a/IvanClar1a/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
-
+<img src="https://github.com/IvanClar1a/IvanClar1a/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" >
 <br>
 
 
