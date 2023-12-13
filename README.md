@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Iván Clariá </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
-
+<img src="https://www.canva.com/design/DAF236WjYng/ixdXaB154vKEeuprwTYzmw/view?utm_content=DAF236WjYng&utm_campaign=designshare&utm_medium=link&utm_source=editor" width ="25">
 
 
 <br>
