@@ -1,6 +1,6 @@
 
 
-<h1 align="center">HOLA! Soy Iván Clariá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">Hola! Soy Iván Clariá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <!-- ## 👋 &nbsp;HOLAA! Soy Iván Clariá -->
 
@@ -69,7 +69,7 @@ Soy un desarrollador apasionado por la creación de soluciones tecnológicas efi
   <img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="mailto:ivanclaria11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="TU_ENLACE_DE_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/ivan.claria?igsh=b2VyN2NwMnUyem0z&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
