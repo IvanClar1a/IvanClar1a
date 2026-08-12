@@ -1,10 +1,10 @@
 
 
-<h1 align="center">Hey there! I'm Iván Clariá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">HOLAA! Soy Iván Clariá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
-<!-- ## 👋 &nbsp;Hey there! Soy Iván Clariá -->
+<!-- ## 👋 &nbsp;HOLAA! Soy Iván Clariá -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mi
 ### Desarrollador de Software | Tecnicatura Universitaria en Programación
 Soy un desarrollador apasionado por la creación de soluciones tecnológicas eficientes, con conocimientos que abarcan el desarrollo web (Front-end y Back-end) y una sólida base lógica en lenguajes como Java. Me destaco por ser un perfil proactivo y en constante aprendizaje, enfocado en construir proyectos creativos y productivos que aporten valor real. Todo esto, siempre acompañado de un buen café ☕ y clima frío 🥶.
 
